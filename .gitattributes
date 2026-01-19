@@ -1,0 +1,2 @@
+# Treat all Jupyter notebooks as Python for GitHub language stats
+*.ipynb linguist-language=Python
