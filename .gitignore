@@ -3,6 +3,8 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+*.ipynb linguist-language=Python
+
 # C extensions
 *.so
 
